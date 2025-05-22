@@ -9,7 +9,6 @@ This project demonstrates how to enable **versioning** in an Amazon S3 bucket, u
 ## 🧰 AWS Services Used
 
 - Amazon S3
-- AWS Management Console
 
 ---
 
