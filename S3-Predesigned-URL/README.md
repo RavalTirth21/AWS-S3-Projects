@@ -9,7 +9,6 @@ This project demonstrates how to generate and use **Presigned URLs** in Amazon S
 ## 🧰 AWS Services Used
 
 - Amazon S3
-- AWS Management Console
 
 ---
 
