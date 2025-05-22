@@ -22,7 +22,7 @@ Uploaded an object and generated a **presigned URL** via the S3 console or progr
 
 ### 🔗 2. Generate Presigned URL  
 A temporary URL was created that allows access to the object for a specific time period.  
-![Step 2](02-Presigned-URL.png)
+![Step 2](02-Predesigned-URL.png)
 
 ---
 
