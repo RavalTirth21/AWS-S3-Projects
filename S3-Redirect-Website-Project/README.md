@@ -44,7 +44,7 @@ Each step is supported with screenshots to provide a complete visual guide.
 
 ## 📁 Folder Structure
 
-S3-Project-2/  
+S3-Redirect-Website-Project/  
 ├── README.md  
 ├── 01-Redirect-Bucket.png  
 ├── 02-Configure-Redirect.png  
