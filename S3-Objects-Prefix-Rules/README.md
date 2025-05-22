@@ -25,11 +25,11 @@ A redirection rule is set up to redirect requests from a specific prefix to anot
 ![Step 1](01-Redirection-Rule.png)
 
 ### 📁 2. Upload Objects into the S3 Bucket  
-Objects are added with and without the defined prefix to test redirection behavior.  
+Objects are added in the folder for which the Prefix will be used.  
 ![Step 2](02-Object-Add.png)
 
 ### 📂 3. Add Objects with Specific Prefix  
-Files are uploaded using a prefix like `docs/`, simulating directory-like structure.  
+Files are uploaded using a prefix `img/`, simulating directory-like structure.  
 ![Step 3](03-Prefix-Add.png)
 
 ### 🌐 4. Access the Prefixed Object in Browser  
