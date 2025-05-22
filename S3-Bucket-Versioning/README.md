@@ -27,13 +27,13 @@ An image file was uploaded to the version-enabled bucket.
 ---
 
 ### 📌 3. View Version One of the Object  
-The object appeared with its initial version ID in the bucket.  
+The object opened in the Browser to see its First Version.  
 ![Step 3](03-Image-Version-One.png)
 
 ---
 
 ### 🔁 4. Upload Another Image with the Same Name  
-A new file with the same object name was uploaded to create a second version.  
+A new image file with the same object name was uploaded to create a second version.  
 ![Step 4](04-Add-Another-Image-Same-Name.png)
 
 ---
